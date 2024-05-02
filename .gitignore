@@ -1,0 +1,8 @@
+yolov5/
+checkpoints/
+loss/
+datasets/
+*.pt
+*.jpg
+*.png
+*.mp4
