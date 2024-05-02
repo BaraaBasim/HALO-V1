@@ -2,6 +2,9 @@ yolov5/
 checkpoints/
 loss/
 datasets/
+tools/images/
+tools/results/
+tools/val_set/
 *.pt
 *.jpg
 *.png
